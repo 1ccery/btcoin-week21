@@ -1,0 +1,6 @@
+C:\Users\opilane\source\repos\BitCoinCalcc\BitCoinCalcc\bin\Debug\netcoreapp3.1\BitCoinCalcc.exe
+C:\Users\opilane\source\repos\BitCoinCalcc\BitCoinCalcc\obj\Debug\netcoreapp3.1\BitCoinCalcc.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\BitCoinCalcc\BitCoinCalcc\obj\Debug\netcoreapp3.1\BitCoinCalcc.Form1.resources
+C:\Users\opilane\source\repos\BitCoinCalcc\BitCoinCalcc\obj\Debug\netcoreapp3.1\BitCoinCalcc.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\BitCoinCalcc\BitCoinCalcc\obj\Debug\netcoreapp3.1\BitCoinCalcc.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\BitCoinCalcc\BitCoinCalcc\obj\Debug\netcoreapp3.1\BitCoinCalcc.AssemblyInfo.cs
